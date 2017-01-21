@@ -19,6 +19,24 @@
       <link href='//fonts.googleapis.com/css?family=Text+Me+One' rel='stylesheet' type='text/css'>
       <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
       <!-- //web font -->
+	  <style>
+        #outer {
+            margin: 0 auto; /*center*/
+            width:200px;
+            background-color:red; /*just to display the example*/
+        }
+
+        #inner {
+            /*move the whole container 50px to the left side*/
+            margin-left:-50px; 
+            margin-right:50px;
+            /*or move the whole container 50px to the right side*/
+            /*
+            margin-left:50px; 
+            margin-right:-50px;
+            */
+        }
+    </style>
    </head>
    <body>
       <h1>First Design!</h1>
@@ -28,8 +46,12 @@
             <h2>Intro</h2>
             <div class="panel">
                <div>
+				<div id="outer">
                   <p>What is this all about?</p>
-                  <h3>The task at hand is to gather preliminary data on transgender healthcare globally. You have been invited to participate in this private survey. </h3>
+				</div>
+				  <div id="inner">
+                  	<h3>The task at hand is to gather preliminary data on transgender healthcare globally. You have been invited to participate in this private survey. </h3>
+				  </div>
                </div>
 			   <div>
             	<p>Security</p>
@@ -42,12 +64,20 @@
             <h2>Terms and Conditions</h2>
             <div class="panel">
                <div>
+				<div id="outer">
                   <p>How will my data be used?</p>
+				</div>
+				<div id="inner">
                   <h3>I will need to fill this with some blurb about how a university will be using this data to make financial decisions in their trans healthcare program. </h3>
-               </div>
+				</div>
+			   </div>
                <div>
+				<div id="outer">
                   <p>What else do I need to know?</p>
+				</div>
+				<div id="inner">
                   <h3>If you're interested in developing this website please contact me via the feedback form on this page</h3>
+				</div>
                </div>
                <input type="submit" value="Read More"> 
             </div>
