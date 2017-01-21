@@ -19,10 +19,10 @@
       <link href='//fonts.googleapis.com/css?family=Text+Me+One' rel='stylesheet' type='text/css'>
       <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
       <!-- //web font -->
-	  
+	  <p href="/">Home</p>
    </head>
    <body>
-      <h1>First Survey!</h1>
+      <h1 href="survey.php">First Survey!</h1>
       <div class="main-agileits">
          <!--form-stars-here-->
          <div class="left-form-w3-agile">
