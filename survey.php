@@ -40,12 +40,12 @@
             <h2>Questions</h2>
             <div class="panel">
                <form action="action_page.php">
-                   <h4>How old were you when you realized BLANK
+                   <h3>How old were you when you realized BLANK
                        <input type="text" name="firstname" value="Mickey">
-                   </h4>
-                    <h4>What about this other question?
+                   </h3>
+                    <h3>What about this other question?
                        <input type="text" name="firstname" value="Mickey">
-                   </h4>
+                   </h3>
                     
                     
                     <input type="submit" value="Submit">
