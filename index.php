@@ -18,6 +18,9 @@
       <!-- web font -->
       <link href='//fonts.googleapis.com/css?family=Text+Me+One' rel='stylesheet' type='text/css'>
       <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
       <!-- //web font -->
    </head>
    <body>
@@ -26,7 +29,7 @@
          <!--form-stars-here-->
          <div class="left-form-w3-agile">
             <h2>Intro</h2>
-            <div class="panel">
+            <div class="panel panel-default">
                <div>
                   <p>What is this all about?</p>
                   <h3>The task at hand is to gather preliminary data on transgender healthcare globally. You have been invited to participate in this private survey. </h3>
@@ -40,7 +43,7 @@
          </div>
          <div class="right-map-w3-agile">
             <h2>Terms and Conditions</h2>
-            <div class="panel">
+            <div class="panel panel-default">
                <div>
                   <p>How will my data be used?</p>
                   <h3>I will need to fill this with some blurb about how a university will be using this data to make financial decisions in their trans healthcare program. </h3>
