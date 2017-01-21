@@ -23,7 +23,7 @@
    <body>
       <h1>First Design!</h1>
       <div class="main-agileits">
-         <!--form-stars-here-->
+		 <div>
          <div class="left-form-w3-agile">
             <h2>Intro</h2>
             <div class="panel">
@@ -35,9 +35,10 @@
             	<p>Security</p>
 				<h3>The data collection method will make ALL data available to ALL participants immediately, and will allow all users to download a list of the data locations of the entries in the survey. Each user will get a receipt at the end of the survey. </h3>
 			   </div>
-               <button type="button" value="Transaction List"> 
+               <input type="input" value="Transaction List"> 
             </div>
          </div>
+		 </div>
          <div class="right-map-w3-agile">
             <h2>Terms and Conditions</h2>
             <div class="panel">
@@ -49,7 +50,7 @@
                   <p>What else do I need to know?</p>
                   <h3>If you're interested in developing this website please contact me via the feedback form on this page</h3>
                </div>
-               <button type="button" value="Read More"> 
+               <input type="input" value="Read More"> 
             </div>
          </div>
          <div class="clear"></div>
