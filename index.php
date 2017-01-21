@@ -36,7 +36,7 @@
             	<p>Security</p>
 				<h3>The data collection method will make ALL data available to ALL participants immediately, and will allow all users to download a list of the data locations of the entries in the survey. Each user will get a receipt at the end of the survey. </h3>
 			   </div>
-               <input type="submit" value="Transaction List"> 
+               <button type="button" value="Transaction List"> 
             </div>
          </div>
          <div class="right-map-w3-agile">
@@ -50,7 +50,7 @@
                   <p>What else do I need to know?</p>
                   <h3>If you're interested in developing this website please contact me via the feedback form on this page</h3>
                </div>
-               <input type="submit" value="Read More"> 
+               <button type="button" value="go on"> 
             </div>
          </div>
          <div class="clear"></div>

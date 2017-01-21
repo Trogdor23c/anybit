@@ -112,6 +112,23 @@ form p {
     margin-bottom: 25px;
     background: #fff;
 }
+button{
+	background: #6d0732;
+    color: #fff;
+    font-size: 13px;
+    outline: none;
+    display: block;
+    border: none;
+    cursor: pointer;
+    padding: 9px 46px;
+    float: right;
+    margin-top: 2em;
+	transition: .4s ease-in-out;
+	-webkit-transition: .4s ease-in-out;
+	-moz-transition: .4s ease-in-out;
+	-ms-transition: .4s ease-in-out;
+	-o-transition: .4s ease-in-out;
+}
 input[type="submit"] {
    background: #6d0732;
     color: #fff;
