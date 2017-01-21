@@ -19,7 +19,11 @@
       <link href='//fonts.googleapis.com/css?family=Text+Me+One' rel='stylesheet' type='text/css'>
       <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
       <!-- //web font -->
-	  <p href="/">Home</p>
+	  <a href="/">
+
+        <h1>Home</h1>
+
+      </a>
    </head>
    <body>
       <h1 href="survey.php">First Survey!</h1>
