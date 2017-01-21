@@ -29,7 +29,7 @@
          <!--form-stars-here-->
          <div class="left-form-w3-agile">
             <h2>Intro</h2>
-            <div class="panel panel-default">
+            <div class="panel">
                <div>
                   <p>What is this all about?</p>
                   <h3>The task at hand is to gather preliminary data on transgender healthcare globally. You have been invited to participate in this private survey. </h3>
@@ -43,7 +43,7 @@
          </div>
          <div class="right-map-w3-agile">
             <h2>Terms and Conditions</h2>
-            <div class="panel panel-default">
+            <div class="panel">
                <div>
                   <p>How will my data be used?</p>
                   <h3>I will need to fill this with some blurb about how a university will be using this data to make financial decisions in their trans healthcare program. </h3>
