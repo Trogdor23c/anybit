@@ -37,7 +37,6 @@
                   <h4>later but for now I need to make an input form on the other side. blah blah blockchain I don't know I am super tired and am going to just keep typing just so I can get pleasure out of hearing my keyboard click</h4>
                </div>
 			   
-			   <button type="button" value="Transaction List">Transaction List</button>
             </div>
          </div>
          <div class="right-map-w3-agile">
