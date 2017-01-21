@@ -19,9 +19,9 @@
       <link href='//fonts.googleapis.com/css?family=Text+Me+One' rel='stylesheet' type='text/css'>
       <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
       <!-- //web font -->
-	  <a href="/">
+	  <a href="/any" style="float:left">
 
-        <h1>Home</h1>
+        <h4>home</h4>
 
       </a>
    </head>
