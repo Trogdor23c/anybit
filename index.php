@@ -29,21 +29,27 @@
             <div class="panel">
                <div>
                   <p>What is this all about?</p>
-                  <h3>Lorem Ipsom</h3>
+                  <h3>The task at hand is to gather preliminary data on transgender healthcare globally. You have been invited to participate in this private survey. </h3>
                </div>
-               <p>Other text</p>
-               <input type="submit" value="Read More"> 
+			   <div>
+            	<p>Security</p>
+				<h3>The data collection method will make ALL data available to ALL participants immediately, and will allow all users to download a list of the data locations of the entries in the survey. Each user will get a receipt at the end of the survey. </h3>
+			   </div>
+               <button type="button" value="Transaction List"> 
             </div>
          </div>
          <div class="right-map-w3-agile">
             <h2>Terms and Conditions</h2>
             <div class="panel">
                <div>
-                  <p>What is this all about?</p>
-                  <h3>Lorem Ipsom</h3>
+                  <p>How will my data be used?</p>
+                  <h3>I will need to fill this with some blurb about how a university will be using this data to make financial decisions in their trans healthcare program. </h3>
                </div>
-               <p>Other text</p>
-               <input type="submit" value="Read More"> 
+               <div>
+                  <p>What else do I need to know?</p>
+                  <h3>If you're interested in developing this website please contact me via the feedback form on this page</h3>
+               </div>
+               <button type="button" value="Read More"> 
             </div>
          </div>
          <div class="clear"></div>
