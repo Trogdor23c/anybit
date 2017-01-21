@@ -42,6 +42,9 @@ body {
 h1,h2,h3,h4{
 	font-family: 'Text Me One', sans-serif;
 }
+p{
+	color: #fff;
+}
 .main-agileits {
     width: 60%;
     margin: 0 auto;
