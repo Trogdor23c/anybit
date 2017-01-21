@@ -40,15 +40,17 @@
             <h2>Questions</h2>
             <div class="panel">
                <form action="action_page.php">
-  First name:<br>
-  <input type="text" name="firstname" value="Mickey">
-  <br>
-  Last name:<br>
-  <input type="text" name="lastname" value="Mouse">
-  <br><br>
-  <input type="submit" value="Submit">
-</form> 
-               <button type="button" value="go on">Continue</button>
+                   <h4>How old were you when you realized BLANK
+                       <input type="text" name="firstname" value="Mickey">
+                   </h4>
+                    <h4>What about this other question?
+                       <input type="text" name="firstname" value="Mickey">
+                   </h4>
+                    
+                    
+                    <input type="submit" value="Submit">
+                    </form> 
+               
             </div>
          </div>
          <div class="clear"></div>
