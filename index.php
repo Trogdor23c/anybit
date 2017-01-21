@@ -10,7 +10,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <title>Test Survey Form</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Easy Binary Forms Responsive Widget,Login form widgets, Sign up Web forms , Login signup Responsive web form,Flat Pricing table,Flat Drop downs,Registration Forms,News letter Forms,Elements" />
+<meta name="keywords" content="Lorem Ipsom" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- Custom Theme files -->
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
@@ -22,29 +22,18 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!-- //web font -->
 </head>
 <body>
-<h1>Easy Binary Forms</h1>
+<h1>First Design!</h1>
 <div class="main-agileits">
 <!--form-stars-here-->
 		<div class="left-form-w3-agile">
 			<h2>Login</h2>
 								<form action="#" method="post">
-									<p>Email</p>
-									<input type="email" class="email" name="Email" placeholder="" required=""/>
-									<p>Password</p>
-									<input type="password" class="password" name="Password" placeholder="" required=""/>
-									<div class="wthree-text"> 
-										<ul> 
-											<li>
-												<label class="anim">
-													<input type="checkbox" class="checkbox">
-													<span> Remember me ?</span> 
-												</label> 
-											</li>
-											<li> <a href="#">Forgot password?</a> </li>
-										</ul>
-										<div class="clear"> </div>
-									</div>  
-											<input type="submit" value="LOGIN"> 
+									<p>Text</p>
+									<input type="text" class="text" name="text" placeholder="" required=""/>
+									<p>Other text</p>
+									<input type="text" class="text" name="text2" placeholder="" required=""/>
+									
+											<input type="submit" value="GO"> 
 								</form>
 		</div>
 <!--//form-ends-here-->
@@ -78,7 +67,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 </div>
 <!-- copyright -->
 	<div class="copyright w3-agile">
-		<p> © 2017 Easy Binary Forms . All rights reserved | Design by <a href="http://w3layouts.com/" target="_blank">W3layouts</a></p>
+		<p> ï¿½ 2017 Easy Binary Forms . All rights reserved | Design by <a href="http://w3layouts.com/" target="_blank">W3layouts</a></p>
 	</div>
 	<!-- //copyright --> 
 </body>
