@@ -38,36 +38,36 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		</div>
 <!--//form-ends-here-->
 		<div class="right-map-w3-agile">
-		<h2>Register</h2>
+		<h2>More stuff!</h2>
 			<form action="#" method="post">
 			<div class="inputs-w3ls">
-				<p>Name</p>
+				<p>Junk!</p>
 					<input type="text" name="Name" placeholder="" required="">
 			</div>
 			<div class="inputs-w3ls">
-				<p>Email</p>
+				<p>Other!</p>
 					<input type="email" class="email" name="Email" placeholder="" required=""/>
 			</div>
 			<div class="inputs-w3ls">
-				<p>Password</p>
+				<p>COOL QUESTION</p>
 					<input type="password" class="password" name="Password" placeholder="" required=""/>
 			</div>
 			<div class="inputs-w3ls">
-				<p>Confirm Password</p>
+				<p>WOW SECRET</p>
 					<input type="password" class="password" name="Confirm Password" placeholder="" required=""/>
 			</div>		
 					<label class="anim">
 					<input type="checkbox" class="checkbox">
 						<span> I accept the terms of use</span> 
 					</label> 
-						<input class="register" type="submit" value="REGISTER">  
+						<input class="register" type="submit" value="GO">  
 			</form> 
 		</div>
 <div class="clear"></div>
 </div>
 <!-- copyright -->
 	<div class="copyright w3-agile">
-		<p> � 2017 Easy Binary Forms . All rights reserved | Design by <a href="http://w3layouts.com/" target="_blank">W3layouts</a></p>
+		<p> � 2017 AnyBit . All rights reserved | CSS by <a href="http://w3layouts.com/" target="_blank">W3layouts</a></p>
 	</div>
 	<!-- //copyright --> 
 </body>
