@@ -40,6 +40,7 @@
             </div>
          </div>
          <div class="right-map-w3-agile">
+			 <form action="survey.php">
             <h2>Terms and Conditions</h2>
             <div class="panel">
                <div>
@@ -50,8 +51,10 @@
                   <h3>What else do I need to know?</h3>
                   <h4>If you're interested in developing this website please contact me via the feedback form on this page</h4>
                </div>
-               <button type="button" onclick="survey.php">Accept</button>
+               <input type="submit" value="Continue">
             </div>
+</form> 
+
          </div>
          <div class="clear"></div>
       </div>
