@@ -50,7 +50,7 @@
                   <h3>What else do I need to know?</h3>
                   <h4>If you're interested in developing this website please contact me via the feedback form on this page</h4>
                </div>
-               <button type="button" value="go on">Accept</button>
+               <button type="button" onclick="survey.php">Accept</button>
             </div>
          </div>
          <div class="clear"></div>
